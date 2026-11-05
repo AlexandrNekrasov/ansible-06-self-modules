@@ -269,4 +269,8 @@ ansible --version
 Установите collection из локального архива.
 ![Screenshot_11.png](img/Screenshot_11.png)
 
+### Ссылки
 
+- **Collection:** https://github.com/AlexandrNekrasov/my_own_collection
+- **Тег `1.0.0`:** https://github.com/AlexandrNekrasov/my_own_collection/releases/tag/1.0.0
+- **Архив `.tar.gz`:** https://github.com/AlexandrNekrasov/my_own_collection/releases/download/1.0.0/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz
